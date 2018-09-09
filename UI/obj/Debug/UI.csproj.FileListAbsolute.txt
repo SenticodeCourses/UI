@@ -1,0 +1,10 @@
+D:\Projects\UI\UI\bin\Debug\UI.exe.config
+D:\Projects\UI\UI\bin\Debug\UI.exe
+D:\Projects\UI\UI\bin\Debug\UI.pdb
+D:\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Projects\UI\UI\obj\Debug\UI.exe
+D:\Projects\UI\UI\obj\Debug\UI.pdb
+D:\Projects\UI\UI\obj\Debug\UI.DataGridView.resources
+D:\Projects\UI\UI\obj\Debug\UI.MainView.resources
